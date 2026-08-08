@@ -1,8 +1,8 @@
-[
-{ "path": "Costumes/base rig", "name": "Rumble Sonic",
+﻿{
+  "name": "Rumble Sonic",
   "author": "Blue Mike",
   "description": "its rumble sonic",
   "file": "base rig",
   "type": "costume",
-  "keepBase": false }
-]
+  "keepBase": false
+}
