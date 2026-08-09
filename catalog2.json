@@ -21,5 +21,10 @@
   "author": "Blue Mike",
   "description": "purple slam",
   "file": "purple octo",
+  "type": "accessory" },
+{ "path": "Accessories/ss3 obstacles", "name": "SS3 Obstacles",
+  "author": "BlueMike",
+  "description": "does this one dissapear also",
+  "file": "ss3 obstacles",
   "type": "accessory" }
 ]
