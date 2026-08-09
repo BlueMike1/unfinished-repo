@@ -4,5 +4,10 @@
   "description": "its rumble sonic",
   "file": "base rig",
   "type": "costume",
-  "keepBase": false }
+  "keepBase": false },
+{ "path": "Accessories/purple octo", "name": "Purple Octopus",
+  "author": "Blue Mike",
+  "description": "purple slam",
+  "file": "purple octo",
+  "type": "accessory" }
 ]
