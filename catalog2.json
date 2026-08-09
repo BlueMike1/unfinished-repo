@@ -16,7 +16,7 @@
   "description": "does this one dissapear also",
   "file": "ss3 obstacles",
   "type": "costume",
-  "keepBase": false },
+  "keepBase": true },
 { "path": "Accessories/purple octo", "name": "Purple Octopus",
   "author": "Blue Mike",
   "description": "purple slam",

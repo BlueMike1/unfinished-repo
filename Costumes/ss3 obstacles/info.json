@@ -4,5 +4,5 @@
   "description": "does this one dissapear also",
   "file": "ss3 obstacles",
   "type": "costume",
-  "keepBase": false
+  "keepBase": true
 }
