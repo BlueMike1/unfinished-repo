@@ -1,4 +1,10 @@
 [
+{ "path": "Costumes/bandana dee", "name": "Bandana Dee",
+  "author": "Blue Mike",
+  "description": "badnana deez nutz",
+  "file": "bandana dee",
+  "type": "costume",
+  "keepBase": false },
 { "path": "Costumes/base rig", "name": "Rumble Sonic",
   "author": "Blue Mike",
   "description": "its rumble sonic",
