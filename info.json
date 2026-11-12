@@ -1,0 +1,15 @@
+﻿{
+  "displayName": "scuffed guys",
+  "description": "scuffed\n",
+  "file": "round_scuffed_guys",
+  "prefab": "round_scuffed_guys",
+  "skybox": "Default-Skybox",
+  "ambientMode": "1",
+  "ambientLight": "0 1 0.8048501 1",
+  "reflectionIntensity": "1",
+  "fog": "true",
+  "fogDensity": "0.0003",
+  "fogColor": "0 0.9263358 1 1",
+  "keepExistingObjects": "false",
+  "music": "Supernatural Synth.mp3"
+}
